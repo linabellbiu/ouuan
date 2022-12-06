@@ -23,8 +23,8 @@ jobs:
         run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.TOKENsss }} README.md
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "834971685@qq.com"
+          git config --local user.name "wangxudong123"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update top followers"
       - name: Pull changes
@@ -32,4 +32,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@552c074ed701137ebd2bf098e70c394ca293e87f
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TOKENsss }}
