@@ -84,21 +84,12 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/jiawei666">beConfident</a>
     </td>
     <td align="center">
-      <a href="https://github.com/a10n2">
-        <img src="https://avatars2.githubusercontent.com/u/99976288" width="100px;" alt="a10n2"/>
-      </a>
-      <br />
-      <a href="https://github.com/a10n2">a10n2-dev</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/heleneunice">
         <img src="https://avatars2.githubusercontent.com/u/119847370" width="100px;" alt="heleneunice"/>
       </a>
       <br />
       <a href="https://github.com/heleneunice">heleneunice</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/gagren">
         <img src="https://avatars2.githubusercontent.com/u/57005717" width="100px;" alt="gagren"/>
@@ -106,6 +97,8 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <br />
       <a href="https://github.com/gagren">gagren</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/KenLun777">
         <img src="https://avatars2.githubusercontent.com/u/93546313" width="100px;" alt="KenLun777"/>
