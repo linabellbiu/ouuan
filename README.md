@@ -88,7 +88,7 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
         <img src="https://avatars2.githubusercontent.com/u/99976288" width="100px;" alt="a10n2"/>
       </a>
       <br />
-      <a href="https://github.com/a10n2">a10n2-dev</a>
+      <a href="https://github.com/a10n2">a10n2</a>
     </td>
     <td align="center">
       <a href="https://github.com/heleneunice">
