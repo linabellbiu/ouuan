@@ -70,18 +70,18 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/xjq7">xjq</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jiawei666">
-        <img src="https://avatars2.githubusercontent.com/u/24775116" width="100px;" alt="jiawei666"/>
-      </a>
-      <br />
-      <a href="https://github.com/jiawei666">beConfident</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/FamousMai">
         <img src="https://avatars2.githubusercontent.com/u/17564206" width="100px;" alt="FamousMai"/>
       </a>
       <br />
       <a href="https://github.com/FamousMai">FamousMai</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jiawei666">
+        <img src="https://avatars2.githubusercontent.com/u/24775116" width="100px;" alt="jiawei666"/>
+      </a>
+      <br />
+      <a href="https://github.com/jiawei666">beConfident</a>
     </td>
     <td align="center">
       <a href="https://github.com/a10n2">
