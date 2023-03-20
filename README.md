@@ -84,11 +84,11 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/jiawei666">beConfident</a>
     </td>
     <td align="center">
-      <a href="https://github.com/a10n2">
-        <img src="https://avatars2.githubusercontent.com/u/99976288" width="100px;" alt="a10n2"/>
+      <a href="https://github.com/2drinktea">
+        <img src="https://avatars2.githubusercontent.com/u/99976288" width="100px;" alt="2drinktea"/>
       </a>
       <br />
-      <a href="https://github.com/a10n2">Yankit Alone</a>
+      <a href="https://github.com/2drinktea">2drinktea</a>
     </td>
     <td align="center">
       <a href="https://github.com/heleneunice">
