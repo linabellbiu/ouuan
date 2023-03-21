@@ -56,18 +56,18 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/Peefy">Peefy</a>
     </td>
     <td align="center">
-      <a href="https://github.com/czero1995">
-        <img src="https://avatars2.githubusercontent.com/u/11902423" width="100px;" alt="czero1995"/>
-      </a>
-      <br />
-      <a href="https://github.com/czero1995">Rick</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xjq7">
         <img src="https://avatars2.githubusercontent.com/u/42568663" width="100px;" alt="xjq7"/>
       </a>
       <br />
       <a href="https://github.com/xjq7">xjq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/czero1995">
+        <img src="https://avatars2.githubusercontent.com/u/11902423" width="100px;" alt="czero1995"/>
+      </a>
+      <br />
+      <a href="https://github.com/czero1995">Rick</a>
     </td>
     <td align="center">
       <a href="https://github.com/FamousMai">
