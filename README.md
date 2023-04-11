@@ -91,14 +91,35 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/2drinktea">alone</a>
     </td>
     <td align="center">
+      <a href="https://github.com/fuzeongit">
+        <img src="https://avatars2.githubusercontent.com/u/20873226" width="100px;" alt="fuzeongit"/>
+      </a>
+      <br />
+      <a href="https://github.com/fuzeongit">下雨的北纬23°</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/heleneunice">
         <img src="https://avatars2.githubusercontent.com/u/119847370" width="100px;" alt="heleneunice"/>
       </a>
       <br />
       <a href="https://github.com/heleneunice">heleneunice</a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/haiyuan1995">
+        <img src="https://avatars2.githubusercontent.com/u/21375009" width="100px;" alt="haiyuan1995"/>
+      </a>
+      <br />
+      <a href="https://github.com/haiyuan1995">haiyuan1995</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wwq-android">
+        <img src="https://avatars2.githubusercontent.com/u/18179981" width="100px;" alt="wwq-android"/>
+      </a>
+      <br />
+      <a href="https://github.com/wwq-android">Quinn</a>
+    </td>
     <td align="center">
       <a href="https://github.com/gagren">
         <img src="https://avatars2.githubusercontent.com/u/57005717" width="100px;" alt="gagren"/>
