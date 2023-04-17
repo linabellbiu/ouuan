@@ -88,7 +88,7 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
         <img src="https://avatars2.githubusercontent.com/u/99976288" width="100px;" alt="2drinktea"/>
       </a>
       <br />
-      <a href="https://github.com/2drinktea">longrj</a>
+      <a href="https://github.com/2drinktea">j</a>
     </td>
     <td align="center">
       <a href="https://github.com/fuzeongit">
