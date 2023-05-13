@@ -127,6 +127,13 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <br />
       <a href="https://github.com/KenLun777">KenLun777</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Jahroch">
+        <img src="https://avatars2.githubusercontent.com/u/89241563" width="100px;" alt="Jahroch"/>
+      </a>
+      <br />
+      <a href="https://github.com/Jahroch">Johri</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
