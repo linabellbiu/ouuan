@@ -107,11 +107,11 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/haiyuan1995">haiyuan1995</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Quinn-wen">
-        <img src="https://avatars2.githubusercontent.com/u/18179981" width="100px;" alt="Quinn-wen"/>
+      <a href="https://github.com/Alex-wen1995">
+        <img src="https://avatars2.githubusercontent.com/u/18179981" width="100px;" alt="Alex-wen1995"/>
       </a>
       <br />
-      <a href="https://github.com/Quinn-wen">Quinn</a>
+      <a href="https://github.com/Alex-wen1995">Alex</a>
     </td>
     <td align="center">
       <a href="https://github.com/gagren">
